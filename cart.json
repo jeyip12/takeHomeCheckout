@@ -1,0 +1,33 @@
+{
+  "customer": {
+    "first_name": "John",
+    "last_name": "Doe"
+  },
+  "items": [
+    {
+      "id": 123,
+      "name": "Old Mother Hubbard Classic Crunchy Natural Dog Treats",
+      "unit_price": 5.0,
+      "quantity": 3
+    },
+    {
+      "id": 234,
+      "name": "Brothers Karamazov",
+      "unit_price": 4.0,
+      "quantity": 5
+    },
+    {
+      "id": 345,
+      "name": "Horse Head Mask",
+      "unit_price": 20.0,
+      "quantity": 2
+    },
+    {
+      "id": 456,
+      "name": "Drinking Glass",
+      "unit_price": 10.0,
+      "quantity": 5
+    }
+  ],
+  "sales_tax": 8.75
+}
